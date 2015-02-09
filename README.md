@@ -1,12 +1,11 @@
 # occupygpl.org
 
-For more permissive open source projects!
+The movement to encourage the usage of permissive open source licenses.
 
 ## Roadmap
 
 * Translations (German, French, more...)
 * Rewrite some text? I'm a programmer, not a writer :)
-* Maybe a tool which checks if you have (L)GPL Github repos.
 
 ## Assets
 
