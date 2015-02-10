@@ -193,6 +193,10 @@ strong {
     color: #E74B47;
 }
 
+quote {
+    color: #CCC;
+}
+
 .share-button-container {
     margin-left: auto;
     margin-right: auto;
